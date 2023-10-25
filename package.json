@@ -1,0 +1,7 @@
+{
+  "name": "ysu-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "vamosgs <gegham.samvelyan@hotmail.com>",
+  "license": "MIT"
+}
